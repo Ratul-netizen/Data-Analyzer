@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+__pycache__/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.log
+
+# Data, cache, and database files
+*.db
+*.sqlite
+*.json
+*.csv
+data/
+cache/
+uploads/
+
+# Build output
+/dist/
+/build/
+
+# Environment variables
+.env 
